@@ -4,7 +4,7 @@
 
 🛠️ Me gusta crear webs que no solo funcionen, sino que cuenten historias. Siempre aprendiendo y buscando nuevas formas de unir código, creatividad y experiencia de usuario.
 
-🌱 Actualmente aprendiendo: **Express.js, React, Node.js, Express...**
+🌱 Actualmente aprendiendo: **Express.js, React, Node.js, etc**
 
 💬 Pregúntame sobre: **HTML5, CSS3, JavaScript, Figma, WordPress, MATLAB, diseño UX/UI**
 

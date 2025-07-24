@@ -8,7 +8,7 @@
 
 ## 📝 Sobre mí
 
-- Ingeniera y Desarrolladora **Full-Stack**, apasionada por el diseño web, las experiencias interactivas y la narrativa digital.
+- Ingeniera, desarrolladora **Full-Stack** y diseñadora UX/UI, apasionada por el diseño web, las experiencias interactivas y la narrativa digital.
 
 - Me gusta crear webs que no solo funcionen, sino que cuenten historias. Siempre aprendiendo y buscando nuevas formas de unir código, creatividad y experiencia de usuario.
 

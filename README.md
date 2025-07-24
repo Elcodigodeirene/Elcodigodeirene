@@ -21,13 +21,13 @@
 🌀 [Explorador de Escenarios Olvidados](https://elcodigodeirene.com/escenariosolvidados/)  
 Una experiencia web inmersiva que mezcla storytelling, diseño visual y desarrollo front-end.  
 **Tech Stack:** HTML5, CSS3 y JavaScript  
-[Repo](https://github.com/Elcodigodeirene/escenariosolvidados)   
+[Mira el código aquí](https://github.com/Elcodigodeirene/escenariosolvidados)   
 
 🔒 [The Escape Book](https://react-thescapebook.vercel.app/)  
 Plataforma de escape rooms con sistema de login, gestor y sistema CRUD.  
 **Tech Stack:** React, Vercel, Express.js, Node.js, MongoDB  
-[Repo REACT](https://github.com/Elcodigodeirene/react-thescapebook) & 
-[Repo API](https://github.com/Elcodigodeirene/api-thescapebook)
+[Mira el código aquí (REACT)](https://github.com/Elcodigodeirene/react-thescapebook) & 
+[(API)](https://github.com/Elcodigodeirene/api-thescapebook)
 
 
 ---
